@@ -1,0 +1,6 @@
+Invoking command in '/home/samuel/bouncing_ball_ws/build/bouncing_ball_game': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/samuel/bouncing_ball_ws/src/bouncing_ball_game -DCMAKE_INSTALL_PREFIX=/home/samuel/bouncing_ball_ws/install/bouncing_ball_game
+Invoked command in '/home/samuel/bouncing_ball_ws/build/bouncing_ball_game' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/samuel/bouncing_ball_ws/src/bouncing_ball_game -DCMAKE_INSTALL_PREFIX=/home/samuel/bouncing_ball_ws/install/bouncing_ball_game
+Invoking command in '/home/samuel/bouncing_ball_ws/build/bouncing_ball_game': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/samuel/bouncing_ball_ws/build/bouncing_ball_game -- -j12 -l12
+Invoked command in '/home/samuel/bouncing_ball_ws/build/bouncing_ball_game' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/samuel/bouncing_ball_ws/build/bouncing_ball_game -- -j12 -l12
+Invoking command in '/home/samuel/bouncing_ball_ws/build/bouncing_ball_game': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/samuel/bouncing_ball_ws/build/bouncing_ball_game
+Invoked command in '/home/samuel/bouncing_ball_ws/build/bouncing_ball_game' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/samuel/bouncing_ball_ws/build/bouncing_ball_game
