@@ -1,0 +1,17 @@
+/home/samuel/bouncing_ball_ws/install/bouncing_ball_game/lib/bouncing_ball_game/camera_node
+/home/samuel/bouncing_ball_ws/install/bouncing_ball_game/lib/bouncing_ball_game/game_node
+/home/samuel/bouncing_ball_ws/install/bouncing_ball_game/share/ament_index/resource_index/package_run_dependencies/bouncing_ball_game
+/home/samuel/bouncing_ball_ws/install/bouncing_ball_game/share/ament_index/resource_index/parent_prefix_path/bouncing_ball_game
+/home/samuel/bouncing_ball_ws/install/bouncing_ball_game/share/bouncing_ball_game/environment/ament_prefix_path.sh
+/home/samuel/bouncing_ball_ws/install/bouncing_ball_game/share/bouncing_ball_game/environment/ament_prefix_path.dsv
+/home/samuel/bouncing_ball_ws/install/bouncing_ball_game/share/bouncing_ball_game/environment/path.sh
+/home/samuel/bouncing_ball_ws/install/bouncing_ball_game/share/bouncing_ball_game/environment/path.dsv
+/home/samuel/bouncing_ball_ws/install/bouncing_ball_game/share/bouncing_ball_game/local_setup.bash
+/home/samuel/bouncing_ball_ws/install/bouncing_ball_game/share/bouncing_ball_game/local_setup.sh
+/home/samuel/bouncing_ball_ws/install/bouncing_ball_game/share/bouncing_ball_game/local_setup.zsh
+/home/samuel/bouncing_ball_ws/install/bouncing_ball_game/share/bouncing_ball_game/local_setup.dsv
+/home/samuel/bouncing_ball_ws/install/bouncing_ball_game/share/bouncing_ball_game/package.dsv
+/home/samuel/bouncing_ball_ws/install/bouncing_ball_game/share/ament_index/resource_index/packages/bouncing_ball_game
+/home/samuel/bouncing_ball_ws/install/bouncing_ball_game/share/bouncing_ball_game/cmake/bouncing_ball_gameConfig.cmake
+/home/samuel/bouncing_ball_ws/install/bouncing_ball_game/share/bouncing_ball_game/cmake/bouncing_ball_gameConfig-version.cmake
+/home/samuel/bouncing_ball_ws/install/bouncing_ball_game/share/bouncing_ball_game/package.xml

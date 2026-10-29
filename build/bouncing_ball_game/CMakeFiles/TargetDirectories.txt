@@ -1,0 +1,11 @@
+/home/samuel/bouncing_ball_ws/build/bouncing_ball_game/CMakeFiles/uninstall.dir
+/home/samuel/bouncing_ball_ws/build/bouncing_ball_game/CMakeFiles/bouncing_ball_game_uninstall.dir
+/home/samuel/bouncing_ball_ws/build/bouncing_ball_game/CMakeFiles/camera_node.dir
+/home/samuel/bouncing_ball_ws/build/bouncing_ball_game/CMakeFiles/game_node.dir
+/home/samuel/bouncing_ball_ws/build/bouncing_ball_game/CMakeFiles/test.dir
+/home/samuel/bouncing_ball_ws/build/bouncing_ball_game/CMakeFiles/edit_cache.dir
+/home/samuel/bouncing_ball_ws/build/bouncing_ball_game/CMakeFiles/rebuild_cache.dir
+/home/samuel/bouncing_ball_ws/build/bouncing_ball_game/CMakeFiles/list_install_components.dir
+/home/samuel/bouncing_ball_ws/build/bouncing_ball_game/CMakeFiles/install.dir
+/home/samuel/bouncing_ball_ws/build/bouncing_ball_game/CMakeFiles/install/local.dir
+/home/samuel/bouncing_ball_ws/build/bouncing_ball_game/CMakeFiles/install/strip.dir
